@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Seminarski rad</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+    <string name="question">Question</string>
+    <string name="log_out">Log out</string>
+    <string name="save" />
+    <string name="savetoDB">Save</string>
+    <string name="odgovor1">odgovor1</string>
+    <string name="odgovor2" />
+    <string name="odgovor3" />
+    <string name="odgovor4" />
+    <string name="score_0">Score : 0</string>
+    <string name="passed_0_30">Passed : 0/30</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">LogIn</string>
+    <string name="register">Register</string>
+    <string name="moj_rezultat">Moj rezultat:</string>
+    <string name="prikaz_maila">Prikaz maila</string>
+    <string name="textview">TextView</string>
+    <string name="rezultat">Rezultat</string>
+</resources>

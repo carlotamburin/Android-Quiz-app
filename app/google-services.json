@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "295072167264",
+    "firebase_url": "https://seminar-work-default-rtdb.firebaseio.com",
+    "project_id": "seminar-work",
+    "storage_bucket": "seminar-work.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295072167264:android:4dd0df4350982b9ad7da05",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295072167264-nn9at8rpihdf2hl1hj6158v8j1ccnsv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXprHPE2uhPgg9tmD0xitAy_m_1axmrWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295072167264-nn9at8rpihdf2hl1hj6158v8j1ccnsv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
